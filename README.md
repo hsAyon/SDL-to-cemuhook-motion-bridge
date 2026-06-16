@@ -1,7 +1,7 @@
 # SDL to Cemuhook Motion Bridge
 
 > [!NOTE]  
-> This application was built specifically for myself as a personal tool to resolve a problem in my own setup. It is shared as-is for anyone facing a similar problem.
+> This application was built specifically for myself as a personal tool to resolve a problem in my own setup. It is shared for anyone facing a similar problem.
 
 This program was created as a workaround for an issue regarding macOS emulators not properly accepting motion inputs from Switch controllers. 
 
